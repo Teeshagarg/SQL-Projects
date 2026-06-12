@@ -22,7 +22,7 @@ The project showcases SQL skills including data retrieval, filtering, aggregatio
 ## 🛠 Technologies Used
 
 * SQL
-* MySQL / PostgreSQL / SQL Server
+* MySQL / SQL Server
 * Relational Database Management System (RDBMS)
 
 ---
